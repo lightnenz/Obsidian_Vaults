@@ -27,4 +27,3 @@
 ## Linux+
 
 ## Cloud Practitioner
-examfdgdd
