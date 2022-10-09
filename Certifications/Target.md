@@ -27,4 +27,4 @@
 ## Linux+
 
 ## Cloud Practitioner
-exam
+examf
