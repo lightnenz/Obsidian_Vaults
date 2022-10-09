@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0445f36e0541fa37",
+    "type": "split",
+    "children": [
+      {
+        "id": "96df83f4c1b21043",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Target.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eb5f58735a15c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d12bbcfdc99233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97a1246086ec960",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1e98f59518c3c7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bf33a98a2c70f6d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2b8115edde1e168",
+    "type": "split",
+    "children": [
+      {
+        "id": "99aec00e0b19f2df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1496f6718966bec5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Target.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4912073a481458c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Target.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09ccfb23b51da6f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44a162ed16c00ffd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Target.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "96df83f4c1b21043",
+  "lastOpenFiles": [
+    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
+    "Juniper/JNCIA/Advanced/Architectural Components.md"
+  ]
+}
