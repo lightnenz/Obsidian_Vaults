@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cisco/CCNA/Untitled.md",
+            "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 198.5
   },
   "right": {
     "id": "d2b8115edde1e168",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/CCNA/Untitled.md",
+                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/CCNA/Untitled.md",
+                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/CCNA/Untitled.md"
+                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "96df83f4c1b21043",
   "lastOpenFiles": [
+    "Cisco/CCNA/Untitled.md",
     "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
     "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
