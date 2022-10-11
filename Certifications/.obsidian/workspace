@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "96df83f4c1b21043",
+        "id": "49b80c1663267257",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,10 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96df83f4c1b21043",
+  "active": "49b80c1663267257",
   "lastOpenFiles": [
-    "Cisco/CCNA/Untitled.md",
+    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
     "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
+    "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
+    "Cisco/CCNA/Untitled.md",
     "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
     "Target.md"

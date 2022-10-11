@@ -7,3 +7,4 @@
 ## LANs need a set of rules to function
 - The most common of these set of rules is **ethernet**, which was invented in the 1970's
 - **ethernet** is a set of standards that define rules
+
