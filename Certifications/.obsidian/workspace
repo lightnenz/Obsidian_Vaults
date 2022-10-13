@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "064525a6abd396be",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
-    "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/tmp.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/etc.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
-    "Juniper/JNCIA/Advanced/Architectural Components.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
-    "Target.md",
-    "Untitled 1.md",
-    "Juniper/JNCIA/Advanced/Interface Configuration Basics.md",
-    "Cisco/CCNA/Untitled.md",
-    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md"
+    "CompTia/Linux+/Linux 1.1.1/Directories/home.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/sbin.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/media.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/opt.md",
+    "Target.md"
   ]
 }
