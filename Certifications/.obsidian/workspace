@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "49b80c1663267257",
+        "id": "064525a6abd396be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -128,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49b80c1663267257",
+  "active": "064525a6abd396be",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
-    "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
     "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
+    "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
     "Cisco/CCNA/Untitled.md",
     "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
