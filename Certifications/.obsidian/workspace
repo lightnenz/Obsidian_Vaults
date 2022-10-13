@@ -7,8 +7,12 @@
         "id": "064525a6abd396be",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "39c90aeee6b699ec"
       },
@@ -16,8 +20,12 @@
         "id": "f3e44bd46d12629b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "39c90aeee6b699ec"
       }
@@ -83,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+              }
             }
           }
         ]
@@ -130,8 +142,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d97a1246086ec960",
+  "active": "064525a6abd396be",
   "lastOpenFiles": [
+    "Untitled.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
     "Target.md",
@@ -140,7 +153,6 @@
     "Juniper/JNCIA/Advanced/Architectural Components.md",
     "Juniper/JNCIA/Advanced/Interface Configuration Basics.md",
     "Cisco/CCNA/Untitled.md",
-    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
-    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md"
+    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md"
   ]
 }
