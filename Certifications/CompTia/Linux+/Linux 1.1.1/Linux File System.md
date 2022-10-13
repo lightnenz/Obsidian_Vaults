@@ -12,3 +12,6 @@
 - **/mnt** - This is where temp mounted file systems go.
 - **/tmp** - This is where temp files go. It is usually deleted on reboot
 - **/sbin** - Essential binary files.
+- **/bin** - Essential binaries that aren't system specific such **/bin/bash**
+- **/lib** - System Library files for **/sbin** and **/bin**
+- **/usr** - Things not needed for 
