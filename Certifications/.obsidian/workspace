@@ -7,13 +7,19 @@
         "id": "064525a6abd396be",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cisco/CCNA/Untitled.md",
-            "mode": "source",
-            "source": false
-          }
-        }
+          "type": "empty",
+          "state": {}
+        },
+        "group": "39c90aeee6b699ec"
+      },
+      {
+        "id": "f3e44bd46d12629b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "39c90aeee6b699ec"
       }
     ],
     "direction": "vertical"
@@ -61,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 433.5
   },
   "right": {
     "id": "d2b8115edde1e168",
@@ -77,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/CCNA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/CCNA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cisco/CCNA/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,15 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "064525a6abd396be",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
+    "Target.md",
+    "Untitled 1.md",
     "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
-    "Cisco/CCNA/Untitled.md",
-    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
-    "Target.md"
+    "Juniper/JNCIA/Advanced/Interface Configuration Basics.md",
+    "Cisco/CCNA/Untitled.md",
+    "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
+    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md"
   ]
 }
