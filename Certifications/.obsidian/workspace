@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Cisco/CCNA/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cisco/CCNA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cisco/CCNA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Cisco/CCNA/Untitled.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "064525a6abd396be",
   "lastOpenFiles": [
+    "Untitled.md",
     "Excalidraw/Drawing 2022-10-10 12.57.52.excalidraw.md",
     "Excalidraw/Drawing 2022-10-10 12.57.21.excalidraw.md",
     "Juniper/JNCIA/Module 01 - Introduction to Junos Operating System/Building Ethernet LANs.md",
