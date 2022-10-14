@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   "lastOpenFiles": [
     "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+    "CompTia/Linux+/Linux.md",
+    "home.md",
     "**/home.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/sys.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/usr.md",
-    "Target.md",
-    "Juniper/JNCIA/Advanced/Routing Policy.md"
+    "CompTia/Linux+/Linux 1.1.1/Directories/usr.md"
   ]
 }
