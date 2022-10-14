@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+            "file": "Linux Boot Process.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+            "file": "Linux Boot Process.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Linux Boot Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Linux Boot Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+                "file": "Linux Boot Process.md"
               }
             }
           }
@@ -142,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d97a1246086ec960",
+  "active": "064525a6abd396be",
   "lastOpenFiles": [
+    "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/sys.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/usr.md",
+    "Target.md",
+    "Juniper/JNCIA/Advanced/Routing Policy.md",
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/tmp.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/etc.md",
-    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/home.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/sbin.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/media.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/opt.md",
-    "Target.md"
+    "CompTia/Linux+/Linux 1.1.1/Directories/etc.md"
   ]
 }
