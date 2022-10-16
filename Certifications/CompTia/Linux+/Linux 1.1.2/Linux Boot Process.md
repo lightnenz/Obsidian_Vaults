@@ -33,3 +33,4 @@
 # Other info
 - After a **Kernel** update, Linux tends to save at least one previous version of the **kernel** in case a **Kernel Panic** happens
 - A **Kernel Panic** tends to mean that there is something wrong with the hardware pf the system
+test
