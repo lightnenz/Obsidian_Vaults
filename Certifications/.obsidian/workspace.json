@@ -23,16 +23,24 @@
             "id": "257df97288bffde9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "107aab7ad9c5cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md"
+                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
               }
             }
           }
@@ -149,20 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "257df97288bffde9",
+  "active": "107aab7ad9c5cb6f",
   "lastOpenFiles": [
-    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+    "Excalidraw/Drawing 2022-10-31 12.25.22.excalidraw.md",
     "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux.md",
     "home.md",
     "**/home.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/sys.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/usr.md"
+    "CompTia/Linux+/Linux 1.1.1/Directories/sys.md"
   ]
 }
