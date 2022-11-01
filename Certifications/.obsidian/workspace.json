@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Distributions.md",
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Distributions.md",
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Distributions.md",
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Distributions.md"
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md"
               }
             }
           }
@@ -184,7 +184,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6792c2304b7463e8",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
     "Udemy Courses/Linux/Module 1/Unix VS Linux.md",
     "Udemy Courses/Linux/Module 1/What is Linux.md",
