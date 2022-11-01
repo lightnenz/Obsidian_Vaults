@@ -13,29 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "CompTia/Linux+/Linux 1.1.3/Devices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "257df97288bffde9",
+            "id": "60e26c02eacdca4b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
+                "file": "CompTia/Linux+/Linux 1.1.3/Devices.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "107aab7ad9c5cb6f",
+            "id": "033bdacc9adbbf42",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -154,20 +158,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "107aab7ad9c5cb6f",
+  "active": "033bdacc9adbbf42",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-31 12.25.22.excalidraw.md",
-    "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+    "CompTia/Linux+/Linux 1.1.3/Devices.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/sbin.md",
+    "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+    "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+    "Target.md",
+    "Excalidraw/Drawing 2022-10-31 12.25.22.excalidraw.md",
     "CompTia/Linux+/Linux.md",
     "home.md",
-    "**/home.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/sys.md"
+    "**/home.md"
   ]
 }
