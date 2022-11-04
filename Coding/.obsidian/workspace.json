@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "f56207d4740b869c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f5e9b86cf53d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ffe6ef95dcf4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/100 Days of Coding/Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dd260c865e1595a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6648452aa2dda24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b19b782397993a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a7da9cb0b4ef780",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2503c8178d3b2b66",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84fb9ff6d5743007",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbcacc737c1bc87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ea2f1688a687dd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/100 Days of Coding/Day 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4141a50fa5837571",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/100 Days of Coding/Day 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c92f6e5d519b0eb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0f8b7782e6e2f0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/100 Days of Coding/Day 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90ffe6ef95dcf4f9",
+  "lastOpenFiles": []
+}
