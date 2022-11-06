@@ -1,5 +1,6 @@
 [
   "obsidian-autocomplete-plugin",
   "obsidian-languagetool-plugin",
-  "code-block-copy"
+  "code-block-copy",
+  "obsidian-jupyter"
 ]

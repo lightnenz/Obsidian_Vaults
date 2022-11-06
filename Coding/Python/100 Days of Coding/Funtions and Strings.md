@@ -8,5 +8,5 @@
 - **Strings** are a data type.
 - The are made of an ordered sequence of **characters** 
 - in many commands such as the **print** or **input command** they need to go in between **""** in order to be recoginesed as **strings**
-- 
+- Different strings can also be **concatenated,** meaning that they can be merged together with other strings so that the output in the same sentence as this example: `print("Hello" + "world!")`
 
