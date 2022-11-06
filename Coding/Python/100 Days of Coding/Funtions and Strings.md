@@ -1,8 +1,7 @@
 ## Functions
 - **Functions** are chunks of code that enable programmers to break down or decompose a problem.
 - **Functions** are also chunks of code taht do something.
-- When using the **print** function *"\n"* can be inserted in order for everthing after this character to be shown on a new line once the code is running.  Like the example below:
-    print("Hello world!\nHello world!")
+- When using the **print** function *"\n"* can be inserted in order for everthing after this character to be shown on a new line once the code is running.  Like the this example: `print("Hello world!\nHello world!")`
 
 
 ## Strings
