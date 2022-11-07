@@ -11,8 +11,12 @@
             "id": "1a33dbcf6ccc4f12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Udemy Courses/Linux/Module 3/Important things to remember.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Udemy Courses/Linux/Module 3/Important things to remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Udemy Courses/Linux/Module 3/Important things to remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+                "file": "Udemy Courses/Linux/Module 3/Important things to remember.md"
               }
             }
           }
@@ -131,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d97a1246086ec960",
+  "active": "1a33dbcf6ccc4f12",
   "lastOpenFiles": [
+    "Udemy Courses/Linux/Module 1/What is Linux.md",
+    "Udemy Courses/Linux/Module 3/Important things to remember.md",
     "Linux Users.md",
     "Udemy Courses/Linux/Module 1/Linux Distributions.md",
     "Udemy Courses/Linux/Module 1/Unix VS Linux.md",
-    "Udemy Courses/Linux/Module 1/What is Linux.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.3/Devices.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/sbin.md",
     "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
-    "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
-    "Target.md"
+    "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
   ]
 }
