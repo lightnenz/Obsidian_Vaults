@@ -18,4 +18,4 @@
 - **/var** - This is where files that tend to change a lot go such as logs an emails
 - **/dev** - This is hardware represented as a file. This can be things such as hard drives, com ports, sound cards etc
 - **/proc** - This is process information that is generated don the fly, it is also used for some kernel info
-- **/sys** - info about devices, drivers and kernel info.
+- **/sys** - info about devices, drivers and kernel info
