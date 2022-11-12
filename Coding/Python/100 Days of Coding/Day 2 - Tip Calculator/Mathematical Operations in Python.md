@@ -13,5 +13,5 @@
 - **Subtractions** and **additions** following the **BIDMAS** rule have equal importance.
 - The order of mathematical operation with equal importance is determined by which one is closer to the left.
 ## Multiplication
-- **Multiplication** is python is done by using the **"*"** 
+- **Multiplication** is python is done by using the **"*"**  symbol
 ## Division
