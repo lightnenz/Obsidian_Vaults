@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Summary/Devops Roadmap.md",
+                "file": "3. OS Concepts/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34424dcd49f4391f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Server Management/woweeee.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Summary/Devops Roadmap.md",
+                "file": "4. Server Management/woweeee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Summary/Devops Roadmap.md",
+                "file": "4. Server Management/woweeee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Summary/Devops Roadmap.md"
+                "file": "4. Server Management/woweeee.md"
               }
             }
           }
@@ -154,13 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a2eb89be4566ac6",
+  "active": "34424dcd49f4391f",
   "lastOpenFiles": [
-    "repository",
     "3. OS Concepts/Untitled.md",
+    "4. Server Management/woweeee.md",
+    "Untitled",
+    "1. Summary/Devops Roadmap.md",
+    "repository",
     "2. Programming & Scripting/Requirements.md",
     "90DaysOfDevOps/2022/Days/CICD/Jenkins/steps.md",
-    "1. Summary/Devops Roadmap.md",
     "90DaysOfDevOps/2023/day88.md",
     "90DaysOfDevOps/2022.png",
     "90DaysOfDevOps/2023.png",
@@ -193,8 +208,6 @@
     "90DaysOfDevOps/2023/day2-ops-code/synchronous/requestor/main.go",
     "90DaysOfDevOps/2023/day2-ops-code/async/requestor/Dockerfile",
     "90DaysOfDevOps/2023/day2-ops-code/async/generator/main.go",
-    "90DaysOfDevOps/2023/day2-ops-code/async/generator/go.sum",
-    "90DaysOfDevOps/2023/day2-ops-code/async/generator/go.mod",
     "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities.jpg",
     "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities - Quay Manifest.jpg",
     "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities - Manifest details.jpg",
