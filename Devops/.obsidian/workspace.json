@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. OS Concepts/Untitled.md",
+                "file": "3. OS Concepts/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Server Management/woweeee.md",
+                "file": "3. OS Concepts/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Server Management/woweeee.md",
+                "file": "3. OS Concepts/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Server Management/woweeee.md"
+                "file": "3. OS Concepts/Requirements.md"
               }
             }
           }
@@ -167,12 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34424dcd49f4391f",
+  "active": "4a2eb89be4566ac6",
   "lastOpenFiles": [
-    "3. OS Concepts/Untitled.md",
+    "1. Summary/Devops Roadmap.md",
+    "3. OS Concepts/Requirements.md",
     "4. Server Management/woweeee.md",
     "Untitled",
-    "1. Summary/Devops Roadmap.md",
     "repository",
     "2. Programming & Scripting/Requirements.md",
     "90DaysOfDevOps/2022/Days/CICD/Jenkins/steps.md",
