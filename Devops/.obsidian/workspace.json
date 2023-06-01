@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "80305649975574e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c615b6b8c8c06b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a2eb89be4566ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Summary/Devops Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34a90ccf310f2c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "a103592536b93cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e283085dc35e12c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "93a8716c8d3a4d94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45298d8112f52655",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff96a1d092b22e04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "e6dce9fda53a927c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a59b1c1f3bb0cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ab5e1e364f63e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Summary/Devops Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f949ae771a487422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Summary/Devops Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "140fb283a50112e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "028ba46fb6953973",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Summary/Devops Roadmap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a2eb89be4566ac6",
+  "lastOpenFiles": [
+    "3. OS Concepts/Untitled.md",
+    "2. Programming & Scripting/Requirements.md",
+    "90DaysOfDevOps/2022/Days/CICD/Jenkins/steps.md",
+    "1. Summary/Devops Roadmap.md",
+    "90DaysOfDevOps/2023/day88.md",
+    "90DaysOfDevOps/2022.png",
+    "90DaysOfDevOps/2023.png",
+    "90DaysOfDevOps/logo.png",
+    "90DaysOfDevOps/template_repository/readme.md",
+    "90DaysOfDevOps/template_repository/day90.md",
+    "90DaysOfDevOps/template_repository/day89.md",
+    "90DaysOfDevOps/template_repository/day88.md",
+    "90DaysOfDevOps/template_repository/day87.md",
+    "90DaysOfDevOps/template_repository/day86.md",
+    "90DaysOfDevOps/template_repository/day85.md",
+    "90DaysOfDevOps/template_repository/day84.md",
+    "90DaysOfDevOps/template_repository/day83.md",
+    "90DaysOfDevOps/template_repository/day82.md",
+    "90DaysOfDevOps/template_repository/day81.md",
+    "90DaysOfDevOps/template_repository/day80.md",
+    "90DaysOfDevOps/template_repository/day79.md",
+    "90DaysOfDevOps/template_repository/day78.md",
+    "90DaysOfDevOps/template_repository/day77.md",
+    "90DaysOfDevOps/template_repository/day76.md",
+    "90DaysOfDevOps/template_repository/day75.md",
+    "90DaysOfDevOps/template_repository/day74.md",
+    "90DaysOfDevOps/template_repository/day73.md",
+    "90DaysOfDevOps/template_repository/day72.md",
+    "90DaysOfDevOps/template_repository/day71.md",
+    "90DaysOfDevOps/template_repository",
+    "90DaysOfDevOps/2023/day2-ops-code/synchronous/requestor/go.sum",
+    "90DaysOfDevOps/2023/day2-ops-code/async/requestor/main.go",
+    "90DaysOfDevOps/2023/day2-ops-code/async/requestor/go.sum",
+    "90DaysOfDevOps/2023/day2-ops-code/async/requestor/go.mod",
+    "90DaysOfDevOps/2023/day2-ops-code/synchronous/requestor/main.go",
+    "90DaysOfDevOps/2023/day2-ops-code/async/requestor/Dockerfile",
+    "90DaysOfDevOps/2023/day2-ops-code/async/generator/main.go",
+    "90DaysOfDevOps/2023/day2-ops-code/async/generator/go.sum",
+    "90DaysOfDevOps/2023/day2-ops-code/async/generator/go.mod",
+    "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities.jpg",
+    "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities - Quay Manifest.jpg",
+    "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities - Manifest details.jpg",
+    "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat OpenShift Console - Administration - Image vulnerabilities - Manifest details - Affected pods.jpg",
+    "90DaysOfDevOps/2023/images/Day58 - OpenShift Cluster Install/Red Hat OpenShift Web Console.jpg",
+    "90DaysOfDevOps/2023/images/Day61 - Authentication - Role-Based Access Control and Auditing in Red Hat OpenShift/Red Hat OpenShift - Access Control - Relationship between cluster roles, local roles and role bindings.png",
+    "90DaysOfDevOps/2023/images/Day62 - Red Hat Quay Container Security Operator/Red Hat Console - Image vulnerability.jpg"
+  ]
+}

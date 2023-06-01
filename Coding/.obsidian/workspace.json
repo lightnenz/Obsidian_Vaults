@@ -136,6 +136,16 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "90ffe6ef95dcf4f9",
   "lastOpenFiles": [
     "Python/100 Days of Coding/Day 2 - Tip Calculator/Type Error, Type checking and Type conversion.md",
