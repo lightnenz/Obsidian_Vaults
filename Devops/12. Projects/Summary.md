@@ -1,7 +1,7 @@
 ### **Beginner Projects**
 
 - Do Some load testing
-- Setup a static webpage using Nginx
+- Setup a LAMP stack with Nginx
 - Deploy a static html site to a CDN
 - Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
