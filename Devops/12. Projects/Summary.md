@@ -7,6 +7,7 @@
 - Build a CI/CD Pipeline
 - Provision AWS service using IaC
 - Build an S3 & Lambda pipeline in AWS
+- Create a custom docker image with Dockerfile
 
 
 ### **Intermediate Projects**
@@ -15,6 +16,6 @@
 - Setup a database with high availability
 - Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
--  Create an Ansible Playbook
+- Create an Ansible Playbook
 
 ### **Advanced Projects**
