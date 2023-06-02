@@ -6,4 +6,5 @@
 - Build a dashboard
 - Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
+- Provision AWS service using IaC
 - 
