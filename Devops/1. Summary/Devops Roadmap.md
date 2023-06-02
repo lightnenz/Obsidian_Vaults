@@ -14,7 +14,7 @@
 - Sockets
 - POSIX
 - Processes
-- Startup Management (initd)
+- Start-up Management (initd)
 - Service Management (systemd)
 - Threads and Concurrency
 
