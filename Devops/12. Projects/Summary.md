@@ -7,4 +7,5 @@
 - Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
 - Provision AWS service using IaC
-- 
+- Build an S3 & Lambda pipeline in AWS
+- Create an Ansible Playbook
