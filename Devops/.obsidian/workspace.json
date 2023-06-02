@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2a8abb3e9c1bcda7",
+        "type": "tabs",
+        "children": [
           {
             "id": "9024af790aa925ea",
             "type": "leaf",
@@ -30,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34424dcd49f4391f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Server Management/woweeee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +174,13 @@
   },
   "active": "9024af790aa925ea",
   "lastOpenFiles": [
+    "1. Summary/Devops Roadmap.md",
+    "2. Programming & Scripting/Requirements.md",
+    "4. Server Management/woweeee.md",
     "3. OS Concepts/Requirements.md",
     "12. Projects/Summary.md",
-    "1. Summary/Devops Roadmap.md",
-    "4. Server Management/woweeee.md",
     "12. Projects",
     "repository",
-    "2. Programming & Scripting/Requirements.md",
     "90DaysOfDevOps/2022/Days/CICD/Jenkins/steps.md",
     "90DaysOfDevOps/2023/day88.md",
     "90DaysOfDevOps/2022.png",
