@@ -7,12 +7,14 @@
 - Build a CI/CD Pipeline
 - Provision AWS service using IaC
 - Build an S3 & Lambda pipeline in AWS
-- Create an Ansible Playbook
 
 
 ### **Intermediate Projects**
 
 - Setup A Linux machine from scratch
 - Setup a database with high availability
+- Deploy an application with a WebUI and API server on Kubernetes
+- Build a CI/CD Pipeline
+-  Create an Ansible Playbook
 
 ### **Advanced Projects**
