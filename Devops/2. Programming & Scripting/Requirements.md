@@ -1,1 +1,1 @@
-DevOps involves a lot of **scripting** 
+Python or Go(Goland) are the 
