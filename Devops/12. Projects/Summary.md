@@ -25,4 +25,4 @@
 - Deploy an application with a WebUI and API server on Kubernetes
 - Automate Kubernetes Cluster Deployment With Terraform
 - Build Java Applications with Gradle
-- ## One-Way and Mutual SSL/TLS Implementation
+- One-Way and Mutual SSL/TLS Implementation
