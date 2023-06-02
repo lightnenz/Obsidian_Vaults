@@ -18,9 +18,11 @@
 - Build a dashboard using Grafana
 - Create an Ansible Playbook
 - Build a Scalable application with Kubernetes and Docker
+- Create an API Based Flask Application
 
 ### **Advanced Projects**
 
 - Deploy an application with a WebUI and API server on Kubernetes
 - Automate Kubernetes Cluster Deployment With Terraform
 - Build Java Applications with Gradle
+- ## One-Way and Mutual SSL/TLS Implementation
