@@ -21,3 +21,4 @@
 ### **Advanced Projects**
 
 - Deploy an application with a WebUI and API server on Kubernetes
+- Automate Kubernetes Cluster Deployment With Terraform
