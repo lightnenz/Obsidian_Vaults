@@ -1,4 +1,4 @@
-### **Beginner projects**
+### **Beginner Projects**
 - Setup A Linux machine from scratch
 - Do Some load testing
 - Setup a database with high availability
@@ -9,3 +9,9 @@
 - Provision AWS service using IaC
 - Build an S3 & Lambda pipeline in AWS
 - Create an Ansible Playbook
+
+
+### **Intermediate Projects**
+
+
+### **Advanced Projects**
