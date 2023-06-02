@@ -17,5 +17,6 @@
 - Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
 - Create an Ansible Playbook
+- Build a Scalable application with Kubernetes and Docker
 
 ### **Advanced Projects**
