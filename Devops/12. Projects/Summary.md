@@ -14,9 +14,10 @@
 
 - Setup A Linux machine from scratch
 - Setup a database with high availability
-- Deploy an application with a WebUI and API server on Kubernetes
 - Build a CI/CD Pipeline
 - Create an Ansible Playbook
 - Build a Scalable application with Kubernetes and Docker
 
 ### **Advanced Projects**
+
+- Deploy an application with a WebUI and API server on Kubernetes
