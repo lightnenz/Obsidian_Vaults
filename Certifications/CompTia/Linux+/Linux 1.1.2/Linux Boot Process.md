@@ -8,7 +8,7 @@
 - It supports drives that are bigger than 2tb drives
 - Supports things like GPT and ore partitions
 - It is newer and has more support
-- Systems sometimes call **UEFI BIOS** so that the user understands what they are talking about
+- Systems sometimes call **UEFI BIOS** so that the user understands what they are talking abouts
 
 
 ## BIOS
