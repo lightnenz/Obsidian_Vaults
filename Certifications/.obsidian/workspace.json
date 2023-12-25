@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Target.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -168,8 +166,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e8e6f7a660a5aa31",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
+    "Red Hat/RHCSA",
+    "Target.md",
+    "Untitled.md",
+    "Red Hat",
     "Linux Users.md",
     "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
     "CompTia/Linux+/Linux 1.1.3/Devices.md",
@@ -177,7 +179,6 @@
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
     "AWS/SysOps/Sysops.md",
-    "Target.md",
     "AWS/SysOps",
     "AWS",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
@@ -196,8 +197,6 @@
     "CompTia/Linux+/Linux 1.1.1/Directories/root.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/opt.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/media.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work",
     "Juniper/JNCIA/Module 0 - Getting started",
