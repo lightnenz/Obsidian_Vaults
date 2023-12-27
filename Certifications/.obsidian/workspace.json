@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md"
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md"
               }
             }
           }
@@ -264,10 +264,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d97a1246086ec960",
+  "active": "f39d5b1a43d16148",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation.md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules.md",
