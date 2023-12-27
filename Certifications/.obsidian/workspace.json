@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Understand Infrastructure as code (IaC) concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -266,6 +266,7 @@
   },
   "active": "f39d5b1a43d16148",
   "lastOpenFiles": [
+    "1. Understand Infrastructure as code (IaC) concepts.md",
     "Untitled 1.md",
     "Untitled 8.md",
     "Untitled 7.md",
@@ -274,7 +275,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled.md",
     "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate",
     "Hashicorp",
