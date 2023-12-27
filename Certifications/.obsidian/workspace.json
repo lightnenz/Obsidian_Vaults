@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
+                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
+                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
+                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md"
+                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 1.md"
               }
             }
           }
@@ -182,10 +182,16 @@
   },
   "active": "567aa9518d8ed4c6",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6a. Describe Terraform workflow ( Write  Plan  Create ).md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 5.md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 4.md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 3.md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 2.md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/Untitled 1.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5d. Set module version.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5c. Describe variable scope within modules child modules.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules/5b. Interact with module inputs and outputs.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules/5a. Contrast and use different module source options including the public Terraform Module Registry.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 3.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4b. Use ''terraform state'' to view Terraform state.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4a. Describe when to use ''terraform import'' to import existing infrastructure into Terraform.md",
@@ -211,12 +217,6 @@
     "Hashicorp/Terraform Associate/3. Understand Terraform basics",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules.md",
-    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow.md",
-    "Hashicorp/Terraform Associate/3. Understand Terraform basics.md",
-    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
-    "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate"
   ]
 }
