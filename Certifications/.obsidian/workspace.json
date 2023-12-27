@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "2. Understand the purpose of Terraform (vs other Iac).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "3. Understand Terraform basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "4. Use Terraform outside of core workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Untitled 4.md"
               }
             }
           }
@@ -266,15 +266,15 @@
   },
   "active": "f39d5b1a43d16148",
   "lastOpenFiles": [
+    "4. Use Terraform outside of core workflow.md",
+    "3. Understand Terraform basics.md",
+    "2. Understand the purpose of Terraform (vs other Iac).md",
     "1. Understand Infrastructure as code (IaC) concepts.md",
-    "Untitled 1.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
     "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate",
     "Hashicorp",
