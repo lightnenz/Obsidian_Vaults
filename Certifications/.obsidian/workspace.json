@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled.md"
+                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 1.md"
               }
             }
           }
@@ -182,9 +182,9 @@
   },
   "active": "567aa9518d8ed4c6",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4a. Describe when to use ''terraform import'' to import existing infrastructure into Terraform.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 2.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled 1.md",
-    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/Untitled.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3d. Describe how Terraform finds and fetches providers.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3c. Write Terraform configuration using multiple providers.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3b. Describe plugin-based architecture.md",
