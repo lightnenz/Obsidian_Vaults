@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "5. Interact with terraform modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "6. Implement and maintain state.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "7. Implement and maintain state.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "6. Implement and maintain state.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "6. Implement and maintain state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "6. Implement and maintain state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.md"
+                "file": "6. Implement and maintain state.md"
               }
             }
           }
@@ -266,15 +266,15 @@
   },
   "active": "f39d5b1a43d16148",
   "lastOpenFiles": [
+    "7. Implement and maintain state.md",
+    "6. Implement and maintain state.md",
+    "5. Interact with terraform modules.md",
     "4. Use Terraform outside of core workflow.md",
     "3. Understand Terraform basics.md",
     "2. Understand the purpose of Terraform (vs other Iac).md",
     "1. Understand Infrastructure as code (IaC) concepts.md",
     "Untitled 8.md",
     "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
     "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate",
     "Hashicorp",
