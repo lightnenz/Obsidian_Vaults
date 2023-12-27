@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9beca0c9a1f45504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Exam Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
+                "file": "0. Exam Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
+                "file": "0. Exam Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md"
+                "file": "0. Exam Guide.md"
               }
             }
           }
@@ -155,16 +168,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f39d5b1a43d16148",
+  "active": "9beca0c9a1f45504",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
+    "0. Exam Guide.md",
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics.md",
-    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
     "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate",
@@ -188,7 +202,6 @@
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs/Lesson 2 - Building Ethernet LANs - Summary.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/6. Presentation Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/5. Session Layer.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work",
     "Juniper/JNCIA/Module 0 - Getting started",
