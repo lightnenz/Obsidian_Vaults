@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md"
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md"
               }
             }
           }
@@ -194,13 +194,15 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9a Explain how Terraform Cloud helps to manage infrastructure.md",
+    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8g Describe built-in dependency management (order of execution based).md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8f Use HCL and Terraform functions to write configuration.md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8e Use resource addressing and resource parameters to connect resources together.md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8d Create and differentiate resource and data configuration.md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8b Describe secure secret injection best practice.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8a Demonstrate use of variables and outputs.md",
-    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/Untitled 6.md",
-    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/Untitled 5.md",
-    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/Untitled 4.md",
-    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/Untitled 3.md",
-    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8c Understand the use of collection and structural types.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7g Understand secret management in state files.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7f Describe backend block and cloud integration in configuration.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7e Manage resource drift and Terraform state.md",
@@ -218,8 +220,6 @@
     "Hashicorp/Terraform Associate/5. Interact with terraform modules/5d. Set module version.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules/5c. Describe variable scope within modules child modules.md",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules/5b. Interact with module inputs and outputs.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5a. Contrast and use different module source options including the public Terraform Module Registry.md",
-    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation",
     "Hashicorp/Terraform Associate/7. Implement and maintain state",
