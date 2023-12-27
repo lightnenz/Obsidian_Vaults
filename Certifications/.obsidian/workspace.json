@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
+                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
+                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
+                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md"
+                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md"
               }
             }
           }
@@ -182,9 +182,13 @@
   },
   "active": "567aa9518d8ed4c6",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5b. Interact with module inputs and outputs.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5a. Contrast and use different module source options including the public Terraform Module Registry.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 3.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules/Untitled 2.md",
+    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4b. Use ''terraform state'' to view Terraform state.md",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4a. Describe when to use ''terraform import'' to import existing infrastructure into Terraform.md",
-    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow/4c. Describe when to enable verbose logging and what outcome value is.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3d. Describe how Terraform finds and fetches providers.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3c. Write Terraform configuration using multiple providers.md",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3b. Describe plugin-based architecture.md",
@@ -213,10 +217,6 @@
     "Hashicorp/Terraform Associate/3. Understand Terraform basics.md",
     "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
     "CompTia/Linux+/Linux Users.md",
-    "Hashicorp/Terraform Associate",
-    "Target.md",
-    "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
-    "CompTia/Linux+/Linux 1.1.3/Devices.md",
-    "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+    "Hashicorp/Terraform Associate"
   ]
 }
