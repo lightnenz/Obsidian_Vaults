@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Understand Infrastructure as code (IaC) concepts.md",
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Understand the purpose of Terraform (vs other Iac).md",
+                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Understand Terraform basics.md",
+                "file": "Hashicorp/Terraform Associate/3. Understand Terraform basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Use Terraform outside of core workflow.md",
+                "file": "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Interact with terraform modules.md",
+                "file": "Hashicorp/Terraform Associate/5. Interact with terraform modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Implement and maintain state.md",
+                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Implement and maintain state.md",
+                "file": "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 7.md",
+                "file": "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Implement and maintain state.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Implement and maintain state.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Implement and maintain state.md",
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Implement and maintain state.md"
+                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md"
               }
             }
           }
@@ -264,17 +264,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f39d5b1a43d16148",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
-    "7. Implement and maintain state.md",
-    "6. Implement and maintain state.md",
-    "5. Interact with terraform modules.md",
-    "4. Use Terraform outside of core workflow.md",
-    "3. Understand Terraform basics.md",
-    "2. Understand the purpose of Terraform (vs other Iac).md",
-    "1. Understand Infrastructure as code (IaC) concepts.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state.md",
+    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
+    "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation.md",
+    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow.md",
+    "Hashicorp/Terraform Associate/5. Interact with terraform modules.md",
+    "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow.md",
+    "Hashicorp/Terraform Associate/3. Understand Terraform basics.md",
+    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac).md",
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
     "CompTia/Linux+/Linux Users.md",
     "Hashicorp/Terraform Associate",
     "Hashicorp",
