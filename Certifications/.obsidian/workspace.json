@@ -11,8 +11,12 @@
             "id": "f39d5b1a43d16148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled.md"
+              }
             }
           }
         ]
@@ -149,6 +157,8 @@
   },
   "active": "f39d5b1a43d16148",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled 1.md",
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Untitled.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
     "Hashicorp/Terraform Associate/0. Exam Guide.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
@@ -182,7 +192,6 @@
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/3. Network Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/4. Transport Layer.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs/Lesson 2 - Building Ethernet LANs - Summary.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/6. Presentation Layer.md"
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs/Lesson 2 - Building Ethernet LANs - Summary.md"
   ]
 }
