@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 4.md"
               }
             }
           }
@@ -194,8 +194,13 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 5.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/7b Describe state locking.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/7d Differentiate remote state back end options.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/7c Handle backend and cloud integration authentication methods.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/7a Describe default local backend.md",
+    "Hashicorp/Terraform Associate/7. Implement and maintain state/Untitled 4.md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
-    "Untitled.md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6f Destroy Terraform managed infrastructure (terraform destroy).md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6e Execute changes to infrastructure with Terraform (terraform apply).md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6d Generate and review an execution plan for Terraform (terraform plan).md",
@@ -215,11 +220,6 @@
     "Hashicorp/Terraform Associate/3. Understand Terraform basics/3a. Install and version Terraform providers.md",
     "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2b. Explain the benefits of state.md",
     "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. Explain multi-cloud and provider -agnostic benefits.md",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Describe advantages of IaC patterns.md",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
-    "Hashicorp/Terraform Associate/0. Exam Guide.md",
-    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation",
     "Hashicorp/Terraform Associate/7. Implement and maintain state",
