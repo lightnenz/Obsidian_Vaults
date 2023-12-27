@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. Explain multi-cloud and provider -agnostic benefits.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md"
+                "file": "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled.md"
               }
             }
           }
@@ -182,8 +182,12 @@
   },
   "active": "567aa9518d8ed4c6",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/Untitled 1.md",
-    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. explain multi-cloud and provider -agnostic benefits.md",
+    "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled 3.md",
+    "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled 2.md",
+    "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled 1.md",
+    "Hashicorp/Terraform Associate/3. Understand Terraform basics/Untitled.md",
+    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2b. Explain the benefits of state.md",
+    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. Explain multi-cloud and provider -agnostic benefits.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/Describe advantages of IaC patterns.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts.md",
@@ -213,10 +217,6 @@
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
-    "AWS/SysOps/Sysops.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/7. Application Layer.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/3. Network Layer.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md"
+    "AWS/SysOps/Sysops.md"
   ]
 }
