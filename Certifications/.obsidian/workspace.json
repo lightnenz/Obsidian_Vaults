@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 423.5
   },
   "right": {
     "id": "d2b8115edde1e168",
@@ -192,7 +192,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "413e1be29f3e524a",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1b .Describe advantages of IaC patterns.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
