@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md"
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md"
               }
             }
           }
@@ -194,8 +194,11 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9a Explain how Terraform Cloud helps to manage infrastructure.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
+    "Juniper/JNCIA/Advanced/Architectural Components.md",
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9b Describe how Terraform Cloud enables collaboration and governance.md",
+    "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities/9a Explain how Terraform Cloud helps to manage infrastructure.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8g Describe built-in dependency management (order of execution based).md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8f Use HCL and Terraform functions to write configuration.md",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation/8e Use resource addressing and resource parameters to connect resources together.md",
@@ -217,9 +220,6 @@
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6c Validate a Terraform configuration (terraform validate).md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6b Initialize a Terraform working directory (terraform init).md",
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6a. Describe Terraform workflow ( Write  Plan  Create ).md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5d. Set module version.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5c. Describe variable scope within modules child modules.md",
-    "Hashicorp/Terraform Associate/5. Interact with terraform modules/5b. Interact with module inputs and outputs.md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation",
     "Hashicorp/Terraform Associate/7. Implement and maintain state",
