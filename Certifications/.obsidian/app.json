@@ -9,6 +9,7 @@
     "IaC",
     "mis-configuration",
     "Pulumi",
-    "HCL-ish"
+    "HCL-ish",
+    "behaviour"
   ]
 }
