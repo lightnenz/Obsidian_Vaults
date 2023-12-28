@@ -8,6 +8,7 @@
     "mis-configure",
     "IaC",
     "mis-configuration",
-    "Pulumi"
+    "Pulumi",
+    "HCL-ish"
   ]
 }
