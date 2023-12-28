@@ -5,6 +5,7 @@
     "MEMTEST",
     "RedHat",
     "Redhat",
-    "mis-configure"
+    "mis-configure",
+    "IaC"
   ]
 }
