@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md"
+                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
               }
             }
           }
@@ -192,10 +192,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d97a1246086ec960",
+  "active": "413e1be29f3e524a",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1b .Describe advantages of IaC patterns.md",
     "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1b .Describe advantages of IaC patterns.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
