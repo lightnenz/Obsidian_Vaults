@@ -194,14 +194,17 @@
   },
   "active": "d97a1246086ec960",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/Untitled 6",
+    "Hashicorp/Terraform Associate/Untitled 3",
+    "Hashicorp/Terraform Associate/Untitled 2",
+    "Hashicorp/Terraform Associate/Untitled 1",
+    "Hashicorp/Terraform Associate/18. Terraform Workflows",
+    "Hashicorp/Terraform Associate/16. Terraform Modules",
     "Hashicorp/Terraform Associate/16. Troubleshooting",
     "Hashicorp/Terraform Associate/15. Drift",
     "Hashicorp/Terraform Associate/14. Plan & Apply",
     "Hashicorp/Terraform Associate/13. Writing and Modifying Terraform Code",
     "Hashicorp/Terraform Associate/12. Terraform Get",
     "Hashicorp/Terraform Associate/11. Terraform Init",
-    "Hashicorp/Terraform Associate/10. Terraform State",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
@@ -226,9 +229,6 @@
     "Hashicorp/Terraform Associate/7. Variables and Data/7a Describe default local backend.md",
     "Hashicorp/Terraform Associate/6. Terraform Language/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
     "Hashicorp/Terraform Associate/6. Terraform Language/6f Destroy Terraform managed infrastructure (terraform destroy).md",
-    "Hashicorp/Terraform Associate/6. Terraform Language/6e Execute changes to infrastructure with Terraform (terraform apply).md",
-    "Hashicorp/Terraform Associate/9. Expressions",
-    "Hashicorp/Terraform Associate/8. Meta Arguments",
-    "Hashicorp/Terraform Associate/7. Variables and Data"
+    "Hashicorp/Terraform Associate/6. Terraform Language/6e Execute changes to infrastructure with Terraform (terraform apply).md"
   ]
 }
