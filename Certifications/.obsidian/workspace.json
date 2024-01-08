@@ -194,10 +194,13 @@
   },
   "active": "d97a1246086ec960",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/Untitled 6",
+    "Hashicorp/Terraform Associate/Untitled 5",
+    "Hashicorp/Terraform Associate/Untitled 4",
     "Hashicorp/Terraform Associate/Untitled 3",
     "Hashicorp/Terraform Associate/Untitled 2",
-    "Hashicorp/Terraform Associate/Untitled 1",
-    "Hashicorp/Terraform Associate/Untitled",
+    "Hashicorp/Terraform Associate/12. Terraform Get",
+    "Hashicorp/Terraform Associate/11. Terraform Init",
     "Hashicorp/Terraform Associate/10. Terraform State",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
@@ -226,9 +229,6 @@
     "Hashicorp/Terraform Associate/6. Terraform Language/6e Execute changes to infrastructure with Terraform (terraform apply).md",
     "Hashicorp/Terraform Associate/9. Expressions",
     "Hashicorp/Terraform Associate/8. Meta Arguments",
-    "Hashicorp/Terraform Associate/7. Variables and Data",
-    "Hashicorp/Terraform Associate/6. Terraform Language",
-    "Hashicorp/Terraform Associate/5. Terraform Providers",
-    "Hashicorp/Terraform Associate/4. Terraform Provisioners"
+    "Hashicorp/Terraform Associate/7. Variables and Data"
   ]
 }
