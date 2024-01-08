@@ -170,8 +170,9 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Declarative +.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. Explain the benefits of state.md",
     "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
     "Hashicorp/Terraform Associate/3. Terraform Basics/3d. Describe how Terraform finds and fetches providers.md",
@@ -204,7 +205,6 @@
     "Hashicorp/Terraform Associate/7. Variables and Data/7g Understand secret management in state files.md",
     "Hashicorp/Terraform Associate/7. Variables and Data/7f Describe backend block and cloud integration in configuration.md",
     "Hashicorp/Terraform Associate/7. Variables and Data/7e Manage resource drift and Terraform state.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7b Describe state locking.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7d Differentiate remote state back end options.md"
+    "Hashicorp/Terraform Associate/7. Variables and Data/7b Describe state locking.md"
   ]
 }
