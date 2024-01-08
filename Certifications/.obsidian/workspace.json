@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
+                "file": "Hashicorp/6. Use the core Terraform workflow/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
                 "mode": "source",
                 "source": false
               }
@@ -216,15 +216,15 @@
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7d Differentiate remote state back end options.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7c Handle backend and cloud integration authentication methods.md",
     "Hashicorp/Terraform Associate/7. Implement and maintain state/7a Describe default local backend.md",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6f Destroy Terraform managed infrastructure (terraform destroy).md",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6e Execute changes to infrastructure with Terraform (terraform apply).md",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow/6d Generate and review an execution plan for Terraform (terraform plan).md",
+    "Hashicorp/6. Use the core Terraform workflow/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
+    "Hashicorp/6. Use the core Terraform workflow/6f Destroy Terraform managed infrastructure (terraform destroy).md",
+    "Hashicorp/6. Use the core Terraform workflow/6e Execute changes to infrastructure with Terraform (terraform apply).md",
+    "Hashicorp/6. Use the core Terraform workflow/6d Generate and review an execution plan for Terraform (terraform plan).md",
     "Hashicorp/Terraform Associate/9. Understand Terraform Cloud capabilities",
     "Hashicorp/Terraform Associate/8. Read, generate, and modify configuation",
     "Hashicorp/Terraform Associate/7. Implement and maintain state",
-    "Hashicorp/Terraform Associate/6. Use the core Terraform workflow",
-    "Hashicorp/Terraform Associate/5. Hashicorp Introductions",
+    "Hashicorp/6. Use the core Terraform workflow",
+    "Hashicorp/Terraform Associate/5. Terraform Language",
     "Hashicorp/Terraform Associate/4. Terraform Providers",
     "Hashicorp/Terraform Associate/2. Terraform Basics",
     "Hashicorp/Terraform Associate/1. IaC concepts",
