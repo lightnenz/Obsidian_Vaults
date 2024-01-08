@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Terraform Basics/2a. Explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Explain multi-cloud and provider -agnostic benefits.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md"
+                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md"
               }
             }
           }
@@ -192,11 +192,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d97a1246086ec960",
+  "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
@@ -226,9 +226,9 @@
     "Hashicorp/Terraform Associate/6. Terraform Language",
     "Hashicorp/Terraform Associate/5. Terraform Providers",
     "Hashicorp/Terraform Associate/4. Terraform Provisioners",
-    "Hashicorp/Terraform Associate/2. Terraform Basics",
+    "Hashicorp/Terraform Associate/2. Hashicorp Introduction",
     "Hashicorp/Terraform Associate/1. IaC concepts",
-    "Hashicorp/Terraform Associate/3. Terraform Provisioners",
+    "Hashicorp/Terraform Associate/3. Terraform Basics",
     "Hashicorp/Terraform Associate"
   ]
 }
