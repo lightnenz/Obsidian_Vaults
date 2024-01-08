@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md"
               }
             }
           }
@@ -192,11 +192,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "413e1be29f3e524a",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1b .Describe advantages of IaC patterns.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts/1a. Understand what IaC is.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
@@ -227,7 +227,7 @@
     "Hashicorp/Terraform Associate/5. Interact with terraform modules",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow",
     "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)",
-    "Hashicorp/Terraform Associate/1. Understand Infrastructure as code (IaC) concepts",
+    "Hashicorp/Terraform Associate/1. IaC concepts",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics",
     "Hashicorp/Terraform Associate"
   ]
