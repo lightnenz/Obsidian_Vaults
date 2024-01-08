@@ -228,7 +228,7 @@
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow",
     "Hashicorp/Terraform Associate/2. Terraform Basics",
     "Hashicorp/Terraform Associate/1. IaC concepts",
-    "Hashicorp/Terraform Associate/3. Understand Terraform basics",
+    "Hashicorp/Terraform Associate/3. Terraform Provisioners",
     "Hashicorp/Terraform Associate"
   ]
 }
