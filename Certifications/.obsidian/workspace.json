@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)/2a. Explain multi-cloud and provider -agnostic benefits.md",
+                "file": "Hashicorp/Terraform Associate/2. Terraform Basics/2a. Explain multi-cloud and provider -agnostic benefits.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
     "Hashicorp/Terraform Associate/6. Use the core Terraform workflow",
     "Hashicorp/Terraform Associate/5. Interact with terraform modules",
     "Hashicorp/Terraform Associate/4. Use Terraform outside of core workflow",
-    "Hashicorp/Terraform Associate/2. Understand the purpose of Terraform (vs other Iac)",
+    "Hashicorp/Terraform Associate/2. Terraform Basics",
     "Hashicorp/Terraform Associate/1. IaC concepts",
     "Hashicorp/Terraform Associate/3. Understand Terraform basics",
     "Hashicorp/Terraform Associate"
