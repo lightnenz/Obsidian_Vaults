@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "7b30f1a06345f334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Explain multi-cloud and provider -agnostic benefits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "567aa9518d8ed4c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hashicorp/Terraform Associate/6. Terraform Language/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "413e1be29f3e524a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md"
               }
             }
           }
@@ -192,10 +168,19 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "d97a1246086ec960",
+  "active": "413e1be29f3e524a",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/Untitled 1",
-    "Hashicorp/Terraform Associate/Untitled",
+    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. Explain the benefits of state.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+    "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
+    "Hashicorp/Terraform Associate/3. Terraform Basics/3d. Describe how Terraform finds and fetches providers.md",
+    "Hashicorp/Terraform Associate/4. Terraform Provisioners/4c. Describe when to enable verbose logging and what outcome value is.md",
+    "Hashicorp/Terraform Associate/5. Terraform Providers/5d. Set module version.md",
+    "Hashicorp/Terraform Associate/6. Terraform Language/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
+    "Hashicorp/Terraform Associate/9. Expressions/9b Describe how Terraform Cloud enables collaboration and governance.md",
+    "Hashicorp/Terraform Associate/8. Meta Arguments/8g Describe built-in dependency management (order of execution based).md",
+    "Hashicorp/Terraform Associate/29. Misc",
+    "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
     "Hashicorp/Terraform Associate/26. Packer",
     "Hashicorp/Terraform Associate/25. Sentinel and Terraform",
@@ -204,16 +189,12 @@
     "Hashicorp/Terraform Associate/22. Terraform Cloud",
     "Hashicorp/Terraform Associate/21. Built-in Functions",
     "Hashicorp/Terraform Associate/20. Resources and complex Types",
-    "Hashicorp/Terraform Associate/19. Terraform Backends",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
     "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
     "Juniper/JNCIA/Advanced/Architectural Components.md",
-    "Hashicorp/Terraform Associate/9. Expressions/9b Describe how Terraform Cloud enables collaboration and governance.md",
     "Hashicorp/Terraform Associate/9. Expressions/9a Explain how Terraform Cloud helps to manage infrastructure.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8g Describe built-in dependency management (order of execution based).md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8f Use HCL and Terraform functions to write configuration.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8e Use resource addressing and resource parameters to connect resources together.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8d Create and differentiate resource and data configuration.md",
@@ -224,11 +205,6 @@
     "Hashicorp/Terraform Associate/7. Variables and Data/7f Describe backend block and cloud integration in configuration.md",
     "Hashicorp/Terraform Associate/7. Variables and Data/7e Manage resource drift and Terraform state.md",
     "Hashicorp/Terraform Associate/7. Variables and Data/7b Describe state locking.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7d Differentiate remote state back end options.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7c Handle backend and cloud integration authentication methods.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7a Describe default local backend.md",
-    "Hashicorp/Terraform Associate/6. Terraform Language/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
-    "Hashicorp/Terraform Associate/6. Terraform Language/6f Destroy Terraform managed infrastructure (terraform destroy).md",
-    "Hashicorp/Terraform Associate/6. Terraform Language/6e Execute changes to infrastructure with Terraform (terraform apply).md"
+    "Hashicorp/Terraform Associate/7. Variables and Data/7d Differentiate remote state back end options.md"
   ]
 }
