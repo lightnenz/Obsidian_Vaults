@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b .Describe advantages of IaC patterns.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. Explain the benefits of state.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1a. Understand what IaC is.md",
     "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
     "Hashicorp/Terraform Associate/3. Terraform Basics/3d. Describe how Terraform finds and fetches providers.md",
     "Hashicorp/Terraform Associate/4. Terraform Provisioners/4c. Describe when to enable verbose logging and what outcome value is.md",
