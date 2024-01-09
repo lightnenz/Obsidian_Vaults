@@ -10,6 +10,7 @@
     "mis-configuration",
     "Pulumi",
     "HCL-ish",
-    "behaviour"
+    "behaviour",
+    "Infr"
   ]
 }
