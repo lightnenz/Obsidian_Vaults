@@ -170,6 +170,8 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Pasted image 20240109094455.png",
+    "Pasted image 20240109094451.png",
     "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
@@ -204,7 +206,6 @@
     "Hashicorp/Terraform Associate/8. Meta Arguments/8c Understand the use of collection and structural types.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8b Describe secure secret injection best practice.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8a Demonstrate use of variables and outputs.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7g Understand secret management in state files.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7f Describe backend block and cloud integration in configuration.md"
+    "Hashicorp/Terraform Associate/7. Variables and Data/7g Understand secret management in state files.md"
   ]
 }
