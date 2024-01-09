@@ -170,6 +170,7 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
+    "Pasted image 20240109100104.png",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
     "Pasted image 20240109094455.png",
@@ -206,7 +207,6 @@
     "Hashicorp/Terraform Associate/8. Meta Arguments/8d Create and differentiate resource and data configuration.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8c Understand the use of collection and structural types.md",
     "Hashicorp/Terraform Associate/8. Meta Arguments/8b Describe secure secret injection best practice.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8a Demonstrate use of variables and outputs.md",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7g Understand secret management in state files.md"
+    "Hashicorp/Terraform Associate/8. Meta Arguments/8a Demonstrate use of variables and outputs.md"
   ]
 }
