@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md"
+                "file": "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md"
               }
             }
           }
@@ -170,23 +170,35 @@
   },
   "active": "413e1be29f3e524a",
   "lastOpenFiles": [
-    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/7. Application Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/6. Presentation Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/5. Session Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/4. Transport Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/3. Network Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
+    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
+    "Juniper/JNCIA/Advanced/Architectural Components.md",
+    "CompTia/Linux+/Linux 1.1.3/Devices.md",
+    "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/root.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/opt.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/etc.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+    "AWS/SysOps/Sysops.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
     "Pasted image 20240109100104.png",
     "Pasted image 20240109094455.png",
     "Pasted image 20240109094451.png",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. Explain the benefits of state.md",
-    "Hashicorp/Terraform Associate/3. Terraform Basics/3a. Install and version Terraform providers.md",
-    "Hashicorp/Terraform Associate/3. Terraform Basics/3d. Describe how Terraform finds and fetches providers.md",
-    "Hashicorp/Terraform Associate/4. Terraform Provisioners/4c. Describe when to enable verbose logging and what outcome value is.md",
-    "Hashicorp/Terraform Associate/5. Terraform Providers/5d. Set module version.md",
-    "Hashicorp/Terraform Associate/6. Terraform Language/6g Apply formatting and style adjustments to a configuration (terraform fmt).md",
-    "Hashicorp/Terraform Associate/9. Expressions/9b Describe how Terraform Cloud enables collaboration and governance.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8g Describe built-in dependency management (order of execution based).md",
     "Hashicorp/Terraform Associate/29. Misc",
     "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
@@ -196,17 +208,6 @@
     "Hashicorp/Terraform Associate/23. Terraform Enterprise",
     "Hashicorp/Terraform Associate/22. Terraform Cloud",
     "Hashicorp/Terraform Associate/21. Built-in Functions",
-    "Hashicorp/Terraform Associate/20. Resources and complex Types",
-    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
-    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
-    "Juniper/JNCIA/Advanced/Architectural Components.md",
-    "Hashicorp/Terraform Associate/9. Expressions/9a Explain how Terraform Cloud helps to manage infrastructure.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8f Use HCL and Terraform functions to write configuration.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8e Use resource addressing and resource parameters to connect resources together.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8d Create and differentiate resource and data configuration.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8c Understand the use of collection and structural types.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8b Describe secure secret injection best practice.md",
-    "Hashicorp/Terraform Associate/8. Meta Arguments/8a Demonstrate use of variables and outputs.md"
+    "Hashicorp/Terraform Associate/20. Resources and complex Types"
   ]
 }
