@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md"
               }
             }
           }
@@ -158,7 +158,9 @@
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
     "Pasted image 20240216070745.png",
+    "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
     "Pasted image 20240216070645.png",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
@@ -185,8 +187,6 @@
     "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/etc.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
-    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "Hashicorp/Terraform Associate/29. Misc",
     "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
