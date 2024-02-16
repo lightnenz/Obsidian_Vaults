@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md"
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md"
               }
             }
           }
@@ -157,11 +157,12 @@
   },
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
+    "Pasted image 20240216081215.png",
     "Pasted image 20240216081134.png",
     "Pasted image 20240216081129.png",
     "Pasted image 20240216081109.png",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
-    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
