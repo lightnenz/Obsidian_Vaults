@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md"
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md"
               }
             }
           }
@@ -157,10 +157,11 @@
   },
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
+    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1g. What is GitOps.md",
     "Pasted image 20240216071926.png",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
@@ -188,7 +189,6 @@
     "CompTia/Linux+/Linux 1.1.1/Directories/root.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/opt.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/mnt.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/etc.md",
     "Hashicorp/Terraform Associate/29. Misc",
     "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
