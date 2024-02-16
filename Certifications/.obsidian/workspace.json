@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md"
               }
             }
           }
@@ -157,11 +157,11 @@
   },
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
-    "Pasted image 20240216070745.png",
-    "Hashicorp/Terraform Associate/1. IaC concepts/Untitled.md",
-    "Pasted image 20240216070645.png",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1g. What is GitOps.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
+    "Pasted image 20240216070745.png",
+    "Pasted image 20240216070645.png",
     "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
