@@ -2,5 +2,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-autocomplete-plugin",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "dataview"
 ]
