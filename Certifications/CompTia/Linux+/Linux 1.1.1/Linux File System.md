@@ -5,7 +5,7 @@
 
 - **/home** - This is a user's home directory and where all for the user's filer are stored.
 - **/root** - This is the root user's home directory .
-- **/boot** - This is where the boot loadedr and the kernel files are stored.
+- **/boot** - This is where the boot loader and the kernel files are stored.
 - **/etc** - Text config for installed applications and the system are stored here.
 - **/opt** - This is for add-on packages.
 - **/media** - This is where removable media is mounted, like **USB**.
