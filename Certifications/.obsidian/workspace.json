@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTia/Linux+/Linux 1.1.1/Linux File System.md"
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/boot.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
@@ -188,7 +189,6 @@
     "Juniper/JNCIA/Advanced/Architectural Components.md",
     "CompTia/Linux+/Linux 1.1.3/Devices.md",
     "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
-    "CompTia/Linux+/Linux 1.1.1/Directories/root.md",
     "Hashicorp/Terraform Associate/29. Misc",
     "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
