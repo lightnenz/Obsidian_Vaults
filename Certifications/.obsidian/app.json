@@ -11,6 +11,8 @@
     "Pulumi",
     "HCL-ish",
     "behaviour",
-    "Infr"
+    "Infr",
+    "GitOps",
+    "GitOps"
   ]
 }
