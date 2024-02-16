@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb9d2fc7df78fe4",
+        "id": "160c8a236b86a30c",
         "type": "tabs",
         "children": [
           {
-            "id": "f39d5b1a43d16148",
+            "id": "acdc5489eee9ce98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md"
               }
             }
           }
@@ -153,10 +155,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f39d5b1a43d16148",
+  "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-31 12.25.22.excalidraw.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
+    "Excalidraw/Drawing 2022-10-31 12.25.23.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-31 12.25.22.excalidraw.md",
     "Pasted image 20240109094455.png",
     "Pasted image 20240109100104.png",
     "Pasted image 20240109094451.png",
@@ -180,10 +186,6 @@
     "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "AWS/SysOps/Sysops.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
     "Hashicorp/Terraform Associate/29. Misc",
     "Hashicorp/Terraform Associate/28. Vault",
     "Hashicorp/Terraform Associate/27. Consul",
