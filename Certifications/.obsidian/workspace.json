@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md"
+                "file": "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2b. What is Terraform.md"
               }
             }
           }
@@ -157,10 +157,10 @@
   },
   "active": "acdc5489eee9ce98",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1f. Mutable vs Immutable Infrastructure.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1g. What is GitOps.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
