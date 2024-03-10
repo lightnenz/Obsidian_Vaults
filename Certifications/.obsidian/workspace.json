@@ -23,9 +23,11 @@
             "id": "f9a2a71d915e9e4e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md",
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md"
+                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md"
               }
             }
           }
@@ -168,8 +170,8 @@
   },
   "active": "f9a2a71d915e9e4e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-10 13.53.15.excalidraw.md",
     "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-10 13.53.15.excalidraw.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
     "CompTia/Linux+/Linux 1.1.1/Directories/usr.md",
