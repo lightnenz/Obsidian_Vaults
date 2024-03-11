@@ -23,11 +23,9 @@
             "id": "f9a2a71d915e9e4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20240216081215.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+                "file": "Images/Pasted image 20240216081215.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+                "file": "Images/Pasted image 20240216081215.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md"
+                "file": "Images/Pasted image 20240216081215.png"
               }
             }
           }
@@ -168,8 +166,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f9a2a71d915e9e4e",
+  "active": "d97a1246086ec960",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
+    "Images",
     "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md",
     "Excalidraw/Drawing 2024-03-10 13.53.15.excalidraw.md",
     "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
@@ -194,15 +194,13 @@
     "Hashicorp/Terraform Associate/1. IaC concepts/1g. What is GitOps.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
-    "Pasted image 20240216081215.png",
-    "Pasted image 20240216081134.png",
-    "Pasted image 20240216081129.png",
-    "Pasted image 20240216081109.png",
-    "Pasted image 20240216071926.png",
-    "Pasted image 20240216070745.png",
-    "Pasted image 20240216070645.png",
+    "Images/Pasted image 20240216081215.png",
+    "Images/Pasted image 20240216081134.png",
+    "Images/Pasted image 20240216081129.png",
+    "Images/Pasted image 20240216081109.png",
+    "Images/Pasted image 20240216071926.png",
+    "Images/Pasted image 20240216070745.png",
+    "Images/Pasted image 20240216070645.png",
     "Pasted image 20240109094455.png",
     "Pasted image 20240109100104.png",
     "Pasted image 20240109094451.png",
@@ -214,7 +212,6 @@
     "Hashicorp/Terraform Associate/24. Workspaces",
     "Hashicorp/Terraform Associate/23. Terraform Enterprise",
     "Hashicorp/Terraform Associate/22. Terraform Cloud",
-    "Hashicorp/Terraform Associate/21. Built-in Functions",
-    "Hashicorp/Terraform Associate/20. Resources and complex Types"
+    "Hashicorp/Terraform Associate/21. Built-in Functions"
   ]
 }
