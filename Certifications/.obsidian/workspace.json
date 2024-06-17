@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f27fedcc30324cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -170,14 +180,14 @@
   },
   "active": "f9a2a71d915e9e4e",
   "lastOpenFiles": [
+    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2c. What is Terraform Cloud.md",
+    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1a. What is Infrastructure as Code.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1h. Immutable Infrastructure guarantee.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1d. Provisioning vs Deployment vs Orchestration.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1c. Infrastructure Lifecycle.md",
-    "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2a. Hashicorp.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1g. What is GitOps.md",
-    "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2c. What is Terraform Cloud.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1b . Popular IaC tools.md",
     "Images",
     "Excalidraw/Drawing 2024-03-10 13.53.17.excalidraw.md",
