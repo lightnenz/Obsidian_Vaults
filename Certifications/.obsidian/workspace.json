@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "44d61904ba3de2eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "0f27fedcc30324cf",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f9a2a71d915e9e4e",
+  "active": "44d61904ba3de2eb",
   "lastOpenFiles": [
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2c. What is Terraform Cloud.md",
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
