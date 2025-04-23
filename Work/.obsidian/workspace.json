@@ -1,70 +1,57 @@
 {
   "main": {
-    "id": "a6ffb2652eab2113",
+    "id": "baaa87e6d0113a4b",
     "type": "split",
     "children": [
       {
-        "id": "15a5d0fe10ae370e",
+        "id": "81001aa930df43c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cbee4c6e46126ac3",
+            "id": "b266a9ee86baea40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Job/Concepts to learn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concepts to learn"
-            }
-          },
-          {
-            "id": "645062b7cd5ecf5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Job/Technologies to learn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technologies to learn"
-            }
-          },
-          {
-            "id": "3aeea22f8946afcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Route Table.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Route Table"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "60cf6848c874bbc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321f74e8d83bd2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6baaba4ad0b68f76",
+    "id": "dd2ca4ead53f4ea0",
     "type": "split",
     "children": [
       {
-        "id": "4bf42f8e08776e46",
+        "id": "ec6580a39877f4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b939aa23c311773",
+            "id": "9b748833707d78d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +64,7 @@
             }
           },
           {
-            "id": "31355d7cb5070d18",
+            "id": "d6be8aef2a32abd0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,17 +81,7 @@
             }
           },
           {
-            "id": "272c70a7027492f6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "81a0afe43a3dce98",
+            "id": "ca8e5614a32c62f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +97,19 @@
     "width": 300
   },
   "right": {
-    "id": "dec5b93cb0773c42",
+    "id": "32db074f190017f6",
     "type": "split",
     "children": [
       {
-        "id": "54f019b8642f5811",
+        "id": "c020bd11be93467a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f581c4aa6cd0310",
+            "id": "5d66d39d3e3e4581",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job/Technologies to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +119,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technologies to learn"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "cc17e9be73ede7ec",
+            "id": "9cdec62ffc3140d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job/Technologies to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Technologies to learn"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "db8cbcefbe310c63",
+            "id": "cc2374eed425925e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,18 +151,17 @@
             }
           },
           {
-            "id": "9ecc381ab89adca4",
+            "id": "1ebdc2cc26c97246",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job/Technologies to learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Technologies to learn"
+              "title": "Outline"
             }
           }
         ]
@@ -207,11 +181,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aeea22f8946afcf",
+  "active": "b266a9ee86baea40",
   "lastOpenFiles": [
-    "Job/Technologies to learn.md",
-    "Route Table.md",
-    "Job/Concepts to learn.md",
-    "Job"
+    "Questions.md",
+    "What is Azure Front Door.md",
+    "What is VMSS.md",
+    "Untitled.md",
+    "What is azure Bicep.md",
+    "what is azuce bicep.md",
+    "What are Azure Landing Zones.md",
+    "What are application rules.md",
+    "What is an azure managed endpoint.md",
+    "What is Azure Foundry.md",
+    "What is an app gateway.md",
+    "What is an Azure front door.md",
+    "create a link.md",
+    "Welcome.md",
+    "What is a subnet.md",
+    "What is a VLAN.md"
   ]
 }

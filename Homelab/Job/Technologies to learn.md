@@ -1,0 +1,10 @@
+- Bicep
+- Azure DevOps Pipelines
+- Azure Log Analytics
+- Azure App insights
+- node.js
+- Typescript
+- C#
+- .NET
+- Javascipt
+- Python

@@ -1,0 +1,11 @@
+
+- [[What is a subnet]]
+- [[What is a VLAN]]
+- [[What is an Azure Front Door]]
+- [[What is an app gateway]]
+- [[what is azure foundry]]
+- [[what is an azure managed endpoint]]
+- [[What is azure Bicep]]
+- [[what are application rules]]
+- [[What are Azure Landing Zones]]
+- [[What is VMSS]]
