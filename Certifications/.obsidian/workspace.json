@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "1a. What is Infrastructure as Code"
             }
+          },
+          {
+            "id": "eee8f33d8e52ebd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f9a2a71d915e9e4e",
+  "active": "eee8f33d8e52ebd6",
   "lastOpenFiles": [
     "Hashicorp/Terraform Associate/1. IaC concepts/1e. Configuration Drift.md",
     "Hashicorp/Terraform Associate/2. Hashicorp Introduction/2c. What is Terraform Cloud.md",

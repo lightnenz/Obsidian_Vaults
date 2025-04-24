@@ -11,10 +11,14 @@
             "id": "b266a9ee86baea40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "What are application rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What are application rules"
             }
           }
         ]
@@ -183,8 +187,8 @@
   },
   "active": "b266a9ee86baea40",
   "lastOpenFiles": [
-    "What is azure data factory.md",
     "Questions.md",
+    "What is azure data factory.md",
     "What is Azure Front Door.md",
     "What is VMSS.md",
     "What is azure Bicep.md",
