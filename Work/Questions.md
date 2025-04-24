@@ -10,3 +10,4 @@
 - [[What are Azure Landing Zones]]
 - [[What is VMSS]]
 - [[What is azure data factory]]
+- [[What is Hub and spoke architecture]]
