@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: Certifications_Vault
+created: 2025-09-19T18:11:49+01:00
