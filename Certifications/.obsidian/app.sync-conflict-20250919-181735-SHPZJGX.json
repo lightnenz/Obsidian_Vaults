@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "GR**and",
+    "MEMTEST",
+    "RedHat",
+    "Redhat",
+    "mis-configure",
+    "IaC",
+    "mis-configuration",
+    "Pulumi",
+    "HCL-ish",
+    "behaviour",
+    "Infr",
+    "GitOps",
+    "GitOps",
+    "Cloud-Init",
+    "Hashicorp"
+  ]
+}
