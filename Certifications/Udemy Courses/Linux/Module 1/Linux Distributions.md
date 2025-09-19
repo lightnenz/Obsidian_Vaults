@@ -4,3 +4,5 @@
 - **Fedora** is sponsored by Redhat and is also used in large infrastructure environments.
 - **SUSE** is a very popular operating system in terms of customization. Many change the code in SUSE to work more efficiently with their proprietary technology.
 - **Debian** is used for its reliability and runs on many servers
+- testing
+- 

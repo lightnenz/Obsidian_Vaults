@@ -11,12 +11,14 @@
             "id": "6d94e475ffb2bb82",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240216070645.png"
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240216070645"
+              "icon": "lucide-file",
+              "title": "Linux Distributions"
             }
           }
         ]
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/Pasted image 20240216070645.png",
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/Pasted image 20240216070645.png",
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -129,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/Pasted image 20240216070645.png",
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,6 +156,9 @@
   },
   "active": "6d94e475ffb2bb82",
   "lastOpenFiles": [
+    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
+    "AWS/SysOps/Sysops.md",
+    "Images/Pasted image 20240216070645.png",
     "Udemy Courses/Linux/Module 3/Important things to remember.md",
     "Udemy Courses/Linux/Module 1/Linux Distributions.md",
     "Udemy Courses/Linux/Module 1/Unix VS Linux.md",
@@ -187,15 +192,12 @@
     "Juniper/JNCIA/Advanced/Maintenance of Junos Devices.md",
     "Juniper/JNCIA/Advanced/Juniper Products.md",
     "Juniper/JNCIA/Advanced/Foundational Routing Knowledge.md",
-    "Juniper/JNCIA/Advanced/General Routing Concepts.md",
     "Juniper/JNCIA/Module 0 - Getting started",
     "Images/Pasted image 20240216081129.png",
     "Images/Pasted image 20240216071926.png",
     "Images/Pasted image 20240216081109.png",
     "Images/Pasted image 20240216070745.png",
     "Images/Pasted image 20240216081134.png",
-    "Images/Pasted image 20240216081215.png",
-    "Images/Pasted image 20240216070645.png",
-    "Hashicorp/Terraform Associate/7. Variables and Data/7e Manage resource drift and Terraform state.md"
+    "Images/Pasted image 20240216081215.png"
   ]
 }
