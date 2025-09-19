@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "97d6fc5eed8301bd",
+    "id": "3929884a72c12e3f",
     "type": "split",
     "children": [
       {
-        "id": "6e86d80c53ef8c24",
+        "id": "2f598ef7b0babd97",
         "type": "tabs",
         "children": [
           {
-            "id": "233385034e409a0c",
+            "id": "6d94e475ffb2bb82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240216070645.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240216070645"
             }
           }
         ]
@@ -23,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8413f348db75760",
+    "id": "2b1852c28223621e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "77f58d7804d090be",
+        "id": "b447552b7cfbaf04",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +42,7 @@
         }
       },
       {
-        "id": "bc8731ca8b9140b7",
+        "id": "b336b5affb0df856",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +59,7 @@
         }
       },
       {
-        "id": "434f8d90c39aaac5",
+        "id": "0e14f48fd40851d4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +74,7 @@
         }
       },
       {
-        "id": "6cd67de6a2449deb",
+        "id": "60d1ab9a9cd9b07c",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -85,15 +87,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "84d8ace177d393d5",
+    "id": "bb700083f86c78b5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b78f7ffa8f6e1e2e",
+        "id": "eef802faa3b4f681",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/Pasted image 20240216070645.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,11 +110,12 @@
         }
       },
       {
-        "id": "5f0361230311ec5e",
+        "id": "bb11b3a61538de06",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/Pasted image 20240216070645.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -120,11 +124,12 @@
         }
       },
       {
-        "id": "3404c639720b6326",
+        "id": "c948c29ad4996352",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "Images/Pasted image 20240216070645.png",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -147,6 +152,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "233385034e409a0c",
-  "lastOpenFiles": []
+  "active": "6d94e475ffb2bb82",
+  "lastOpenFiles": [
+    "Udemy Courses/Linux/Module 3/Important things to remember.md",
+    "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+    "Udemy Courses/Linux/Module 1/Unix VS Linux.md",
+    "Udemy Courses/Linux/Module 1/What is Linux.md",
+    "Udemy Courses/Linux/Module 3",
+    "Udemy Courses/Linux/Module 1",
+    "Udemy Courses/Linux",
+    "Udemy Courses",
+    "Red Hat/RHCSA",
+    "Red Hat",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/7. Application Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/5. Session Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/3. Network Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/6. Presentation Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/4. Transport Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs/Lesson 2 - Building Ethernet LANs - Summary.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work",
+    "Juniper/JNCIA/Advanced/Interface Configuration Basics.md",
+    "Juniper/JNCIA/Advanced/Routing Policy.md",
+    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
+    "Juniper/JNCIA/Advanced/User interface Options.md",
+    "Juniper/JNCIA/Advanced/Configuration Tasks.md",
+    "Juniper/JNCIA/Advanced/Seconadry System Configuration.md",
+    "Juniper/JNCIA/Advanced/Architectural Components.md",
+    "Juniper/JNCIA/Advanced/Firewall FIlters.md",
+    "Juniper/JNCIA/Advanced/Maintenance of Junos Devices.md",
+    "Juniper/JNCIA/Advanced/Juniper Products.md",
+    "Juniper/JNCIA/Advanced/Foundational Routing Knowledge.md",
+    "Juniper/JNCIA/Advanced/General Routing Concepts.md",
+    "Juniper/JNCIA/Module 0 - Getting started",
+    "Images/Pasted image 20240216081129.png",
+    "Images/Pasted image 20240216071926.png",
+    "Images/Pasted image 20240216081109.png",
+    "Images/Pasted image 20240216070745.png",
+    "Images/Pasted image 20240216081134.png",
+    "Images/Pasted image 20240216081215.png",
+    "Images/Pasted image 20240216070645.png",
+    "Hashicorp/Terraform Associate/7. Variables and Data/7e Manage resource drift and Terraform state.md"
+  ]
 }
