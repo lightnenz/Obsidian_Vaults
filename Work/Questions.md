@@ -11,3 +11,6 @@
 - [[What is VMSS]]
 - [[What is azure data factory]]
 - [[What is Hub and spoke architecture]]
+- [[What is a user assigned identity]]
+- What is the ACR
+- What is the difference between Bastion and Bastion tunnel
