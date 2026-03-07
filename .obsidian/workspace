@@ -1,33 +1,47 @@
 {
   "main": {
-    "id": "27b1396853e05ed3",
+    "id": "0445f36e0541fa37",
     "type": "split",
     "children": [
       {
-        "id": "977fe0b17ce13b09",
+        "id": "064525a6abd396be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Building Ethernet LANs.md",
+            "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "39c90aeee6b699ec"
+      },
+      {
+        "id": "f3e44bd46d12629b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "39c90aeee6b699ec"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "34e6828bbfb8b1d2",
+    "id": "8eb5f58735a15c18",
     "type": "split",
     "children": [
       {
-        "id": "b9334806c94354a3",
+        "id": "66d12bbcfdc99233",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a4bdb004a74946",
+            "id": "d97a1246086ec960",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +49,7 @@
             }
           },
           {
-            "id": "6d9b28f7d50e87f8",
+            "id": "d1e98f59518c3c7a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +64,7 @@
             }
           },
           {
-            "id": "f955bce0cfe7b3d5",
+            "id": "1bf33a98a2c70f6d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,23 +75,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "right": {
-    "id": "4b17e19f0c194db1",
+    "id": "d2b8115edde1e168",
     "type": "split",
     "children": [
       {
-        "id": "f3de0b9396555ade",
+        "id": "99aec00e0b19f2df",
         "type": "tabs",
         "children": [
           {
-            "id": "9926e72540fb55e7",
+            "id": "1496f6718966bec5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building Ethernet LANs.md",
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +103,19 @@
             }
           },
           {
-            "id": "04ecbf9811a041d9",
+            "id": "4912073a481458c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building Ethernet LANs.md",
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "062327e0565fea66",
+            "id": "09ccfb23b51da6f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +126,12 @@
             }
           },
           {
-            "id": "14e226bccebc247a",
+            "id": "44a162ed16c00ffd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building Ethernet LANs.md"
+                "file": "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md"
               }
             }
           }
@@ -128,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "977fe0b17ce13b09",
+  "active": "064525a6abd396be",
   "lastOpenFiles": [
-    "Certifications/Target.md",
-    "Firewall FIlters.md",
-    "Routing Policy.md",
-    "Juniper Products.md",
-    "General Routing Concepts.md",
-    "Foundational Routing Knowledge.md",
-    "Maintenance of Junos Devices.md",
-    "Configuration Tasks.md",
-    "Seconadry System Configuration.md",
-    "Basics of Operational Monitoring.md"
+    "CompTia/Linux+/Linux 1.1.1/Linux File System.md",
+    "CompTia/Linux+/Linux 1.1.2/Linux Boot Process.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/var.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/proc.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/sys.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/usr.md",
+    "Target.md",
+    "Juniper/JNCIA/Advanced/Routing Policy.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
+    "CompTia/Linux+/Linux 1.1.1/Directories/tmp.md"
   ]
 }
