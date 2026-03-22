@@ -1,7 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "obsidian-autocomplete-plugin",
   "obsidian-languagetool-plugin",
-  "dataview"
+  "dataview",
+  "local-llm-helper"
 ]

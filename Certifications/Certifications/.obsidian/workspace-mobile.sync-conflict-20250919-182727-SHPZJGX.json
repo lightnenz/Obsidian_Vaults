@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3929884a72c12e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f598ef7b0babd97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d94e475ffb2bb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Distributions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b1852c28223621e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b447552b7cfbaf04",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b336b5affb0df856",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0e14f48fd40851d4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "60d1ab9a9cd9b07c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bb700083f86c78b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eef802faa3b4f681",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bb11b3a61538de06",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c948c29ad4996352",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d94e475ffb2bb82",
+  "lastOpenFiles": [
+    "CompTia/Linux+/Linux 1.1.1/Directories/bin.md",
+    "AWS/SysOps/Sysops.md",
+    "Images/Pasted image 20240216070645.png",
+    "Udemy Courses/Linux/Module 3/Important things to remember.md",
+    "Udemy Courses/Linux/Module 1/Linux Distributions.md",
+    "Udemy Courses/Linux/Module 1/Unix VS Linux.md",
+    "Udemy Courses/Linux/Module 1/What is Linux.md",
+    "Udemy Courses/Linux/Module 3",
+    "Udemy Courses/Linux/Module 1",
+    "Udemy Courses/Linux",
+    "Udemy Courses",
+    "Red Hat/RHCSA",
+    "Red Hat",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/7. Application Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/5. Session Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/3. Network Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/6. Presentation Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/4. Transport Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/1. Physical Layer.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model/2. Data Link.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs/Lesson 2 - Building Ethernet LANs - Summary.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/Lesson 1 - How Networks work - Summary.md",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work/OSI Model",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 2 - Building Ethernet LANs",
+    "Juniper/JNCIA/Module 0 - Getting started/Lesson 1 - How Networks work",
+    "Juniper/JNCIA/Advanced/Interface Configuration Basics.md",
+    "Juniper/JNCIA/Advanced/Routing Policy.md",
+    "Juniper/JNCIA/Advanced/Basics of Operational Monitoring.md",
+    "Juniper/JNCIA/Advanced/User interface Options.md",
+    "Juniper/JNCIA/Advanced/Configuration Tasks.md",
+    "Juniper/JNCIA/Advanced/Seconadry System Configuration.md",
+    "Juniper/JNCIA/Advanced/Architectural Components.md",
+    "Juniper/JNCIA/Advanced/Firewall FIlters.md",
+    "Juniper/JNCIA/Advanced/Maintenance of Junos Devices.md",
+    "Juniper/JNCIA/Advanced/Juniper Products.md",
+    "Juniper/JNCIA/Advanced/Foundational Routing Knowledge.md",
+    "Juniper/JNCIA/Module 0 - Getting started",
+    "Images/Pasted image 20240216081129.png",
+    "Images/Pasted image 20240216071926.png",
+    "Images/Pasted image 20240216081109.png",
+    "Images/Pasted image 20240216070745.png",
+    "Images/Pasted image 20240216081134.png",
+    "Images/Pasted image 20240216081215.png"
+  ]
+}

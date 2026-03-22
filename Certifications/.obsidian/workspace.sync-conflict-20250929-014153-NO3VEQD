@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "27b1396853e05ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "977fe0b17ce13b09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Building Ethernet LANs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34e6828bbfb8b1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9334806c94354a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a4bdb004a74946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d9b28f7d50e87f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f955bce0cfe7b3d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b17e19f0c194db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3de0b9396555ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9926e72540fb55e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Building Ethernet LANs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04ecbf9811a041d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Building Ethernet LANs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "062327e0565fea66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14e226bccebc247a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Building Ethernet LANs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "977fe0b17ce13b09",
+  "lastOpenFiles": [
+    "Certifications/Target.md",
+    "Firewall FIlters.md",
+    "Routing Policy.md",
+    "Juniper Products.md",
+    "General Routing Concepts.md",
+    "Foundational Routing Knowledge.md",
+    "Maintenance of Junos Devices.md",
+    "Configuration Tasks.md",
+    "Seconadry System Configuration.md",
+    "Basics of Operational Monitoring.md"
+  ]
+}

@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8267fdc96d4fa47a",
+        "id": "7f7812f67f7c39a0",
         "type": "tabs",
         "children": [
           {
-            "id": "942d2f14c9385b89",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "8dc886a912624b32",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "76d940fade1b8f83",
+            "id": "0836af8bbbaca82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do List.md",
+                "file": "Buy List/Wants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do List"
+              "title": "Wants"
             }
           },
           {
-            "id": "58a5cc32d7de8372",
+            "id": "f28182135a3ed02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon return list.md",
+                "file": "Food/Recipies/Healthy recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amazon return list"
+              "title": "Healthy recipes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Buy List/Returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Returns"
             }
           },
           {
@@ -177,37 +156,69 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Food/Recipies/Healthy recipes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Healthy recipes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "local-llm-helper:LLM Helper": false
     }
   },
-  "active": "58a5cc32d7de8372",
+  "active": "f28182135a3ed02b",
   "lastOpenFiles": [
+    "Buy List/Needs.md",
     "To-Do List.md",
-    "Amazon return list.md",
-    "Amazon buy List.md",
+    "Food/Recipies/Spicy Fish & Potato Stew.md",
+    "Food/Recipies/Satiety Index.md",
+    "Food/Recipies/Healthy recipes.md",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts/example-expert.md",
+    "Food/Recipies",
+    "Food",
     "Untitled.md",
+    "Buy List/Returns.md",
+    "gemini-scribe/Prompts",
+    "gemini-scribe",
+    "Buy List/Wants.md",
+    "~syncthing~Untitled.md.tmp",
+    "List of lost items.md",
+    "Amazon buy List.sync-conflict-20251026-183518-4WYWKBO.md",
+    "Projects/Simple 3D Prints/things to print.md",
+    "Projects/Simple 3D Prints",
+    "~syncthing~Amazon buy List.sync-conflict-20251026-183518-4WYWKBO.md.tmp",
+    "Return list.md",
+    "Buy List.md",
+    "Buy List",
+    "To-Do List.sync-conflict-20251002-143249-4WYWKBO.md",
+    "~syncthing~To-Do List.sync-conflict-20251002-143249-4WYWKBO.md.tmp",
+    "Amazon buy List.sync-conflict-20251002-143248-4WYWKBO.md",
+    "To-Do List.sync-conflict-20251002-143248-4WYWKBO.md",
+    "Projects/Transparent Speaker/Speaker layout.md",
+    "Projects/Transparent Speaker/Wiring.md",
+    "Projects/Transparent Speaker/Material supply.md",
+    "Projects/Transparent Speaker/Difficulties.md",
+    "Projects/Transparent Speaker/Concept.md",
+    "Transparent Speaker.md",
     "Welcome.md"
   ]
 }
