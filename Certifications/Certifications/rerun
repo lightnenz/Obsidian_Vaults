@@ -1,6 +1,0 @@
-#!/bin/sh  
-while true  
-do  
-  ./sync  
-  sleep 300  
-done
